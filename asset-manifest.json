@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/good-travel/static/css/main.5f361e03.chunk.css",
-    "main.js": "/good-travel/static/js/main.f9eebfee.chunk.js",
-    "main.js.map": "/good-travel/static/js/main.f9eebfee.chunk.js.map",
+    "main.css": "/good-travel/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/good-travel/static/js/main.b922f18e.chunk.js",
+    "main.js.map": "/good-travel/static/js/main.b922f18e.chunk.js.map",
     "runtime-main.js": "/good-travel/static/js/runtime-main.98e1c3fe.js",
     "runtime-main.js.map": "/good-travel/static/js/runtime-main.98e1c3fe.js.map",
-    "static/js/2.84c166a5.chunk.js": "/good-travel/static/js/2.84c166a5.chunk.js",
-    "static/js/2.84c166a5.chunk.js.map": "/good-travel/static/js/2.84c166a5.chunk.js.map",
+    "static/js/2.32fe27db.chunk.js": "/good-travel/static/js/2.32fe27db.chunk.js",
+    "static/js/2.32fe27db.chunk.js.map": "/good-travel/static/js/2.32fe27db.chunk.js.map",
     "index.html": "/good-travel/index.html",
-    "precache-manifest.444570e1f7d061fa77b48e565a9f46c8.js": "/good-travel/precache-manifest.444570e1f7d061fa77b48e565a9f46c8.js",
+    "precache-manifest.12efdd7275d5f7596b071fa660f47253.js": "/good-travel/precache-manifest.12efdd7275d5f7596b071fa660f47253.js",
     "service-worker.js": "/good-travel/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/good-travel/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.84c166a5.chunk.js.LICENSE.txt": "/good-travel/static/js/2.84c166a5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/good-travel/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/good-travel/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.32fe27db.chunk.js.LICENSE.txt": "/good-travel/static/js/2.32fe27db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.98e1c3fe.js",
-    "static/js/2.84c166a5.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f9eebfee.chunk.js"
+    "static/js/2.32fe27db.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b922f18e.chunk.js"
   ]
 }
